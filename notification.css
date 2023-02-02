@@ -1,0 +1,49 @@
+body{
+	padding-top: 50px;
+}
+.frame{
+	border: 2px solid black;
+	padding: 30px;
+	border-radius: 20px;
+}
+table,th,tr{
+	border: 1px solid black;
+	padding-left: 60px;
+	padding-right: 60px;
+	padding-top: 30px;
+	text-align: center;
+}
+.Postname{
+	color: purple;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+.link{
+	text-decoration: none;
+	color: purple;
+}
+.interest{
+	color: purple;
+}
+.table{
+	border: 2px solid black;
+	border-bottom: none;
+}
+#table{
+	border: none;
+}
+span{
+	color: red;
+}
+#title{
+	color: black;
+	text-shadow: 1px 1px 0 black;
+	letter-spacing: 10px;
+	border: 2px solid black;
+	padding: 20px;
+	border-radius: 20px; 
+	margin-bottom: 20px;
+}
+#heading{
+	text-shadow: 3px 1px 0 black;
+}

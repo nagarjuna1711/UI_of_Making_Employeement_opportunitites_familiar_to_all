@@ -1,0 +1,54 @@
+body{
+			padding: 30px;
+		}
+		.container{
+			border: 3px solid black;
+			padding: 20px;
+			border-radius: 30px;
+		}
+		.title{
+			background: linear-gradient(60deg,black 10%,transparent 80%,black 10%);
+			border: 3px solid black;
+			border-radius: 20px;
+			margin-bottom: 30px;
+		}
+		.title-value{
+			color: white;
+			text-shadow: 0 1px 5px black;
+		}
+		.notification{
+			padding-right: 50px;
+			padding-top: 10px;
+			border: 3px solid black;
+			border-radius: 30px;
+			background: linear-gradient(110deg,cyan 10%,white 70%, cyan 20%);
+		}
+		.chsl{
+			position: relative;
+			top: 20%;
+			left: 10%;
+			font-weight: bold;
+			font-size: 60px;
+		}
+		.details-span{
+			color: red;
+			font-weight: bold;
+			font-style: italic;
+
+		}
+		.details-p{
+			font-weight: bold;
+			font-style: italic;
+
+		}
+		.link{
+			padding-top: 55px;
+			font-weight: bold;
+			color: navy;
+			text-decoration: none;
+		}
+		.link:hover{
+			transform: scale(1.1);
+			transition: .3s;
+			text-decoration: none;
+		}
